@@ -1,6 +1,5 @@
 package com.immortalidiot.navigation
 
-import ApplicationNavigation
 import AuthScreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
